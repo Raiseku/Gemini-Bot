@@ -1,5 +1,7 @@
 # **Gemini Bot**
 
+Check the video explanation here: https://youtu.be/xmSuoA4blmk
+
 This code provides a Python implementation of a Telegram Chatbot powered by Vertex AI's generative models. The bot uses the Telethon Python library to interact with the Telegram Bot API and Google Cloud's Vertex AI API for generative models.
 
 ## **Installation**
